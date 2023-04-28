@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../Swift/InvoiceAppUI/InvoiceAppUI.xcodeproj">
+      location = "group:InvoiceMacUI/InvoiceMacUI.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:../Swift/InvoiceBackend/InvoiceBackend.xcodeproj">
+      location = "group:InvoiceBackend/InvoiceBackend.xcodeproj">
    </FileRef>
 </Workspace>
